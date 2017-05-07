@@ -1,6 +1,7 @@
 blue
 yellow
 pink
+Purpel
 Red
 Green
 these are the colors of my rainbow
