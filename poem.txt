@@ -1,7 +1,12 @@
-blue
-yellow
-pink
-Purpel
+The Rainbow and the Unicorn
+
+Blue
+Yellow
+Pink
+Purple
 Red
 Green
-these are the colors of my rainbow
+Unicorn
+Orange
+These are the colors of my rainbow.
+And the unicorn
